@@ -105,7 +105,7 @@ public class Pizza {
 	/**
 	 * Método estático para zera o registro de ingredientes. (Week3)<p>
 	 * 
-	 * <em>(Este novo método foi solicitado no exercício da Week3 de testes da Classe Pizza e TestCarrinhoDeCompras.)</em>
+	 * <em>(Este novo método foi solicitado no exercício da Week3 de testes da Classe Pizza e TestCarrinhoCompras.)</em>
 	 * 
 	 * @author Bruno Rojo
 	 * @date Julho de 2019

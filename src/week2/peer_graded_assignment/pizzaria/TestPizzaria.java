@@ -152,7 +152,7 @@ public class TestPizzaria {
 
 	
 	/**
-	 * Faça os testes da classe TestCarrinhoDeCompras, verificando se o preço das pizzas
+	 * Faça os testes da classe TestCarrinhoCompras, verificando se o preço das pizzas
 	 * são somados corretamente.
 	 */
 
@@ -251,7 +251,7 @@ public class TestPizzaria {
 	}
 	
 	/**
-	 * Faça os testes da classe TestCarrinhoDeCompras, verificando se ele impede a adição de uma pizza sem
+	 * Faça os testes da classe TestCarrinhoCompras, verificando se ele impede a adição de uma pizza sem
 	 * ingredientes.
 	 */
 
