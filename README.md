@@ -8,3 +8,10 @@ O objetivo deste curso é fazer você compreender os princípios de orientação
 Os conceitos Java apresentados neste curso incluem o seguinte: revisão de conceitos básicos de orientação a objetos, tais como classes, objetos, métodos e atributos, variáveis de instância e de classe; responsabilidades, colaborações e cartões CRC; testes de unidade, uso de plataforma IDE como o Eclipse; herança, classes concretas e abstratas, interfaces, modificadores de acesso, encapsulamento, métodos de acesso; aprofundamento nos conceitos de polimorfismo, sobrecarga e sobreposição; associação de classes, agregação e composição; exceções, delegação e acoplamento abstrato. Em seguida, vocês serão apresentados aos principais princípios usados para organizar o desenvolvimento de programas orientados a objetos com qualidade, dentre os quais, os princípios "Tell, Don't Ask!" e "Law of Demeter". Sempre que conveniente, cada conceito será representado por meio de diagramas  UML. Você será exposto a propriedades e anotações em Java.
 
 Ao final deste curso, você terá amadurecido de tal modo suas habilidades de programação que você será capaz de implementar versões iniciais do componente de gamificação constante do Trabalho de Conclusão da Especialização, com base nas boas práticas exercitadas neste curso.
+
+# Week1 - Classes na Teoria e em Java.
+# Week2 - Classes com Java e Modelagem CRC.
+# Week3 - Testes de Unidade, Diagramas UML, Colaboração e Dependência.
+# Week4 - Herança na Teoria e em Java.
+# Week5 - Encapsulamento, Acoplamento entre Classes e Interfaces do Java.
+# Week6 - Polimorfismo, Law of Demeter e Exceções em Java.
