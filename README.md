@@ -1,6 +1,7 @@
-# coursera-ita-ooj
-# Orientação a Objetos com Java por Instituto Tecnológico da Aeronáutica
-Informação sobre o curso
+# Curso de Orientação a Objetos com Java por Instituto Tecnológico da Aeronáutica
+
+## Informação sobre o curso
+
 Neste curso, assumimos que você já sabe desenvolver programas pequenos em Java, mas você talvez não se sinta ainda confortável em projetar programas mais complexos com método e organização. 
 
 O objetivo deste curso é fazer você compreender os princípios de orientação a objetos por meio da linguagem Java e saber como eficientemente aplicar esses princípios na prática quando projetando e desenvolvendo software de maneira ágil. Os conceitos discutidos e experimentados por você neste curso serão a base para você poder compreender os novos conceitos apresentados nos cursos seguintes desta especialização.
@@ -9,9 +10,9 @@ Os conceitos Java apresentados neste curso incluem o seguinte: revisão de conce
 
 Ao final deste curso, você terá amadurecido de tal modo suas habilidades de programação que você será capaz de implementar versões iniciais do componente de gamificação constante do Trabalho de Conclusão da Especialização, com base nas boas práticas exercitadas neste curso.
 
-# Week1 - Classes na Teoria e em Java.
-# Week2 - Classes com Java e Modelagem CRC.
-# Week3 - Testes de Unidade, Diagramas UML, Colaboração e Dependência.
-# Week4 - Herança na Teoria e em Java.
-# Week5 - Encapsulamento, Acoplamento entre Classes e Interfaces do Java.
-# Week6 - Polimorfismo, Law of Demeter e Exceções em Java.
+- Week1 Classes na Teoria e em Java.
+- Week2 Classes com Java e Modelagem CRC.
+- Week3 Testes de Unidade, Diagramas UML, Colaboração e Dependência.
+- Week4 Herança na Teoria e em Java.
+- Week5 Encapsulamento, Acoplamento entre Classes e Interfaces do Java.
+- Week6 Polimorfismo, Law of Demeter e Exceções em Java.
